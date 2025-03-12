@@ -7,6 +7,10 @@
 @layer base {
     body {
         @apply text-base;
+        @media screen {
+            base-palette: ;
+            
+        }
     }
     h1,
     .h1,
